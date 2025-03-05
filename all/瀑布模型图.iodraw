@@ -1,0 +1,43 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0CEqVLzWeyBgBZ_Gjh3B-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0CEqVLzWeyBgBZ_Gjh3B-1" target="0CEqVLzWeyBgBZ_Gjh3B-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0CEqVLzWeyBgBZ_Gjh3B-1" value="计划" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lq6VyczqD3-kksyUCEiE-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0CEqVLzWeyBgBZ_Gjh3B-5" target="Lq6VyczqD3-kksyUCEiE-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0CEqVLzWeyBgBZ_Gjh3B-5" value="需求分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lq6VyczqD3-kksyUCEiE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Lq6VyczqD3-kksyUCEiE-1" target="Lq6VyczqD3-kksyUCEiE-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lq6VyczqD3-kksyUCEiE-1" value="系统设计" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AMFiCVaBwm_REXXMWW2G-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Lq6VyczqD3-kksyUCEiE-3" target="AMFiCVaBwm_REXXMWW2G-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lq6VyczqD3-kksyUCEiE-3" value="软件实现" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AMFiCVaBwm_REXXMWW2G-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AMFiCVaBwm_REXXMWW2G-1" target="AMFiCVaBwm_REXXMWW2G-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMFiCVaBwm_REXXMWW2G-1" value="测试" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="405" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AMFiCVaBwm_REXXMWW2G-3" value="运行维护" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
