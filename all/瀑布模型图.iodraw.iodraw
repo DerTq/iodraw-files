@@ -22,8 +22,14 @@
         <mxCell id="Lq6VyczqD3-kksyUCEiE-1" value="系统设计" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="230" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lq6VyczqD3-kksyUCEiE-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AMFiCVaBwm_REXXMWW2G-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lq6VyczqD3-kksyUCEiE-3" target="AMFiCVaBwm_REXXMWW2G-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lq6VyczqD3-kksyUCEiE-3" value="软件实现" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AMFiCVaBwm_REXXMWW2G-1" value="软件实现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
